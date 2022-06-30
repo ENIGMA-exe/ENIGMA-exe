@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mandip Singh</h1>
+<a href=""> <p align="center">View Portfolio</p> </a>
 <h3 align="center">A passionate frontend developer from India.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=enigma-exe" alt="enigma-exe" /></a> </p>
@@ -11,7 +12,7 @@
 
 - 📫 How to reach me **mandeep.bitu.13@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1DX8VS5BGYR9nTEiFu4NIiUr3Obw_8gDk/view?usp=sharing](https://drive.google.com/file/d/1DX8VS5BGYR9nTEiFu4NIiUr3Obw_8gDk/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1DX8VS5BGYR9nTEiFu4NIiUr3Obw_8gDk/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
