@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mandip Singh</h1>
-<a href=""> <p align="center">View Portfolio</p> </a>
+<a href="https://enigma-exe.github.io/Portfolio/"> <p align="center">View Portfolio</p> </a>
 <h3 align="center">A passionate frontend developer from India.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=enigma-exe" alt="enigma-exe" /></a> </p>
